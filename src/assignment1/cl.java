@@ -8,6 +8,7 @@ public class cl {
             System.out.println("a");
             if(++x==7){
                 System.out.println("b");
+                IO.println("adiya kumargi");
             }
 
             System.out.println(x);
